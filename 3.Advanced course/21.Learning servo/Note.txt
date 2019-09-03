@@ -1,0 +1,2 @@
+﻿!!!Note:
+Since the servo needs to be powered by 5V, we can't directly plug the USB cable into the Microbit board to power supply. We need to plug the USB cable into the USB port on the Diamond breakout.
